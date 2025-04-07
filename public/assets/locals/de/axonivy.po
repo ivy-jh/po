@@ -1,2 +1,22 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2025-04-07 12:18+0000\n"
+"Last-Translator: Jens Hartmann <jens.hartmann@axonivy.com>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/ivy/po/de/>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11-dev\n"
+
+#: ../../source/axonivy/migration/deprecation.rst:4
+msgid "Deprecation and Removal"
+msgstr "veraltet und zum entfernen markiert"
+
+#: ../../source/axonivy/migration/deprecation.rst:6
+msgid ""
+"You should avoid using deprecated Public APIs and features. When "
+"migrating to a new version, check for deprecated Public APIs and features"
+" and replace them with the successor API or feature."
+msgstr "das ist der deutsche text."
