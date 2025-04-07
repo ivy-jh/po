@@ -3,14 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-07 15:41+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-04-07 14:08+0000\n"
+"Last-Translator: LibreTranslate <noreply-mt-libretranslate@weblate.org>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/ivy/po_all/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.15.1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11-dev\n"
 
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2025 Axon Ivy AG
@@ -36,8 +37,8 @@ msgstr ""
 
 #: ../../source/concepts/3rd-party-integration/database.rst:2
 msgid "a1"
-msgstr ""
+msgstr "1"
 
 #: ../../source/concepts/3rd-party-integration/database.rst:4
 msgid "a2"
-msgstr ""
+msgstr "a2"
